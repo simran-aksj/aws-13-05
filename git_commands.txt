@@ -1,0 +1,23 @@
+git status
+git add (dot for all file / file name)
+git commit -m "reason"
+git push (main branch)
+git log --oneline 
+git show commitid
+head means last commit happened 
+touch name
+git status 
+Branches- 
+git branch -how many branches you have
+git branch master
+git branch
+git checkout master 
+how to push
+git push --set-upstream origin master
+git push -u origin branchname
+git branch --delete name under branch
+_______________________________________
+Git status
+Git add file name
+git commit -m "reason"
+git push
